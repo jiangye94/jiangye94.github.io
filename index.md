@@ -7,6 +7,7 @@ date: 2018-07-21
 
 - [typora格式](./post/typora格式.html)
 - [typora+github博客搭建](./post/typora+github博客搭建.html)
+- [LaTex语法](./post/LaTex语法.html)
 
 
 
