@@ -22,3 +22,10 @@ date: 2018-07-21
 
 - [手把手 - 匿名信息](./手把手/手把手 - 匿名信息.html)
 
+
+
+## Machine Learning Yearning
+
+- [英文版原文](./MLY/Ng_MLY01_13.pdf)
+- [我的阅读笔记](./MLY/MLY_index.html)
+
